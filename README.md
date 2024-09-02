@@ -4,6 +4,9 @@ This project implements a Natural Language Processing (NLP) chatbot for a food o
 Dialogflow: For natural language understanding and intent detection.
 FastAPI: To build a fast and efficient backend API.
 MySQL: For database management to store user orders and details.
+Ngrok is used to create secured tunnels to my localhost,allowing my
+backend server to connect to webhooks of dialogflow as  dialogflow 
+allows https not http.Ngrok provides HTTPS tunnels, making it secure for sharing your work.
 # Features
 1. Place food orders seamlessly.
 2. Remove existing orders.
