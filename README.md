@@ -20,7 +20,7 @@ The Food Order Management System is a Python application that integrates with Di
 ## Getting Started
 
 ### Prerequisites
-* Python 3.12
+* Python
 * FastAPI
 * Dialogflow
 * Database (e.g., SQLite, PostgreSQL)
